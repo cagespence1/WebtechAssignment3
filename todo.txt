@@ -1,0 +1,25 @@
+schemas
+
+- movie *
+- user *
+- rating *
+
+routes
+
+movies
+- get all movies 
+- get a single movie using a tt_number 
+
+users
+- get all users
+- get a single user using a username
+- register a user
+
+ratings
+- get the average rating for a movie
+- get a users rating for a movie
+- add a rating for a movie
+- update a rating for a movie
+- remove a rating for a movie
+
+tests

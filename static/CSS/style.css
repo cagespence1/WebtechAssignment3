@@ -1,0 +1,44 @@
+.material-icons {
+    width: 24px;
+    color: #c0801f;
+}
+
+.material-icons.dark {
+    width: 24px;
+    color: #784d0d;
+}
+
+.movie-container {
+    padding: 20px;
+}
+
+/*.card {*/
+    /*margin: 20px;*/
+/*}*/
+
+.input-form-container {
+    width: 300px;
+    margin:auto;
+}
+
+html{
+    min-width: 450px;
+    /*background-color: #ed3939;*/
+}
+
+body{
+    background-color: inherit;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+nav {
+    max-width: 1024px;
+    margin: auto;
+}
+
+.content{
+    background: #f8f9fa!important;
+}
